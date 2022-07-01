@@ -1,0 +1,17 @@
+body{
+    background-color: #F7F6F3;
+}
+
+.container {
+	background-color: white;
+	width: 90%;
+	padding-top: 30px;
+	margin-top: 50px;
+	display: block;
+	border-radius: 10px;
+	padding-bottom: 30px;
+}
+
+form div{
+	margin-top: 10px;
+}
